@@ -2,7 +2,7 @@
   <img src="assets/spidyyy.gif" alt="banner" width="100%">
 </p>
 
-<p align="center" style="font-family: 'Geist', sans-serif;"><strong><font size="7">Darshan-A-S</font></strong></p>
+<p align="center" style="font-family: 'Geist', sans-serif;"><strong><font size="15">Darshan-A-S</font></strong></p>
 
 <p align=left">
   <a href="https://github.com/Darshan-A-S/Darshan-A-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=dark&font=geist" /><img alt="GitHub Stars" src="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=light&font=geist" /></picture></a>
