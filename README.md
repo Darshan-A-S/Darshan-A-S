@@ -21,16 +21,6 @@ I'm a **full-stack engineer** from Bengaluru who loves building stuff on the web
   <a href="https://leetcode.com/u/Darshan_as/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32"></a>
 </p>
 
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [portfolio](https://github.com/Darshan-A-S/portfolio) | A minimal dev portfolio | JavaScript |
-| [dasregistry](https://github.com/Darshan-A-S/dasregistry) | Component registry | TypeScript |
-| [ProctorPro](https://github.com/Darshan-A-S/ProctorPro) | Online test web application | Python |
-| [TypeRacer-Frontend](https://github.com/Darshan-A-S/TypeRacer-Frontend) | Typing racer frontend | JavaScript |
-| [TypeRacer-Backend](https://github.com/Darshan-A-S/TypeRacer-Backend) | Typing racer backend | Java |
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -54,6 +44,8 @@ I'm a **full-stack engineer** from Bengaluru who loves building stuff on the web
   <img src="assets/vs-code.svg" alt="VS Code" width="40" height="40" title="VS Code">&nbsp;
   <img src="assets/vercel.svg" alt="Vercel" width="40" height="40" title="Vercel">
 </p>
+
+*My best projects are pinned below.
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darshan-A-S&show_icons=true&theme=dark">
