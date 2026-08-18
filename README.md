@@ -2,10 +2,10 @@
   <img src="assets/spidyyy.gif" alt="banner" width="100%">
 </p>
 
-<p align="center" style="font-family: 'Geist', sans-serif;"><strong><font size="15">Darshan-A-S</font></strong></p>
+<h1 align="center">Darshan-A-S</h1>
 
-<p align=left">
-  <a href="https://github.com/Darshan-A-S/Darshan-A-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=dark&font=geist" /><img alt="GitHub Stars" src="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=light&font=geist" /></picture></a>
+<p align="center">
+  <a href="https://github.com/Darshan-A-S/Darshan-A-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=dark&font=geist" /><img alt="GitHub Stars" src="https://shieldcn.dev/github/stars/Darshan-A-S/Darshan-A-S.svg?variant=outline&mode=light&font=geist" /></picture></a>&nbsp;&nbsp;
   <a href="https://github.com/Darshan-A-S/Darshan-A-S"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/repo/Darshan-A-S/Darshan-A-S.svg?base=0&variant=outline&mode=dark&font=geist" /><img alt="Repo views" src="https://shieldcn.dev/views/repo/Darshan-A-S/Darshan-A-S.svg?base=0&variant=outline&mode=light&font=geist" /></picture></a>
 </p>
 
