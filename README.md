@@ -11,9 +11,6 @@
 
 I'm a **full-stack engineer** from Bengaluru who loves building stuff on the web, Java, Spring Boot, Python, React, and whatever else gets the job done. When I'm not coding, I'm usually editing videos or designing.
 
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-</p>
 
 ## Links
 
@@ -49,6 +46,9 @@ I'm a **full-stack engineer** from Bengaluru who loves building stuff on the web
   <img src="assets/vercel.svg" alt="Vercel" width="40" height="40" title="Vercel">
 </p>
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 *My best projects are pinned below.
 
 <!-- <p align="center">
