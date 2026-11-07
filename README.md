@@ -11,6 +11,8 @@
 
 I'm a **full-stack engineer** from Bengaluru who loves building stuff on the web, Java, Spring Boot, Python, React, and whatever else gets the job done. When I'm not coding, I'm usually editing videos or designing.
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## Links
 
 <p align="left">
